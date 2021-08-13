@@ -34,7 +34,7 @@ body,html{
   height: 100%;
 }
 div{
-  background-color: rgb(255, 181, 203);
+  background-color: rgb(248, 198, 213);
   margin: 70px;
   width: 1000px;
   height: 500px;
